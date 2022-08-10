@@ -15,8 +15,6 @@
     <img src="https://user-images.githubusercontent.com/61455803/183993381-2a7389b8-37f8-4fdc-8b98-326a7ee5291d.png" width="50"/>
  <img src="https://user-images.githubusercontent.com/61455803/184004758-bfaf3d3c-3fae-40f1-a582-00c30f79f08c.png" width="50"/>
   <img src="https://user-images.githubusercontent.com/61455803/184004970-0a133f19-842a-4809-87a8-22cb9a6ce128.png" width="50"/>
-
-
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50"/>
            <img src="https://user-images.githubusercontent.com/61455803/184004364-bc183a1e-b4ab-43f9-a289-daf0c54f3bea.png" width="50"/> 
 </div>
