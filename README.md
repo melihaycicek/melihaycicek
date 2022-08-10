@@ -1,7 +1,8 @@
 
-###### Hi there, I'm Melih, Aycicek Melih 👋
+
 <div id="header" align="center" >
 ### Hi there, I'm Melih, Aycicek Melih 👋
+  ---
 </div>
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg)
