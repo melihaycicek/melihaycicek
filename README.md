@@ -1,8 +1,7 @@
 
 
 <div id="header" align="center" >
- <h3>Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
-width="50"
+ <h3 width="%50">Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
 </div>
 
 
