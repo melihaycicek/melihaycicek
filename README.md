@@ -1,6 +1,6 @@
 
-
-<div id="header" align="center" width="auto">
+###### Hi there, I'm Melih, Aycicek Melih 👋
+<div id="header" align="center" >
 ### Hi there, I'm Melih, Aycicek Melih 👋
 </div>
 
