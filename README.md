@@ -14,16 +14,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50"/>
 </div>
 
-<a
-            className=" avatar avatar-sm rounded-circle"
-            href="#pablo"
-            onClick={(e) => e.preventDefault()}
-          >
-            <img
-              alt="..."
-              src="https://demos.creative-tim.com/argon-design-system-pro/assets/img/faces/team-4.jpg"
-            ></img>
-
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg"/>
