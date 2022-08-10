@@ -7,7 +7,9 @@
 
 ![7423888_react_react native_icon](https://user-images.githubusercontent.com/61455803/183992314-d1c7232c-9582-4f3c-a5ea-2a36d2cf14f5.png)
 
-
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/61455803/183992314-d1c7232c-9582-4f3c-a5ea-2a36d2cf14f5.png"/>
+</div>
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg"/>
