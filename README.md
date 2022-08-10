@@ -2,6 +2,8 @@
 
 <div id="header" align="center" >
  <h3 width="%50">Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
+  <h3/>
+  <h3> Always in update. The pendulum in my brain never stops <h3/>
 </div>
 
 
@@ -23,7 +25,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-  Always in update. The pendulum in my brain never stops
+  
 </div>
 
 
