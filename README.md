@@ -33,7 +33,9 @@
 </div>
 
 
-
+[
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=devsuatt&&style=flat-square" align="center" />
 </div>
+  ](https://profile-counter.glitch.me/melihaycicek/count.svg)
+  
