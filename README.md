@@ -31,11 +31,11 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg"/>
 </div>
-
-
-[
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=devsuatt&&style=flat-square" align="center" />
-</div>
-  ](https://profile-counter.glitch.me/melihaycicek/count.svg)
   
+  
+  <h4 align="center">Visitor count</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/melihaycicek/count.svg" />
+</p>
+
+
