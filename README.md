@@ -6,6 +6,9 @@
   <h3> 'Always in update. The pendulum in my brain never stops' <h3/>
 </div>
 
+  
+  
+<h2> 🛠 Technologies & Tools </h2>
 <div id="header" align="center">
 
 <a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/184102434-8063f0cb-59dd-4c0b-8405-c1ea9f1e3f06.png" alt="java" width="40" height="40"/> </a> 
@@ -31,4 +34,6 @@
 
 
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=devsuatt&&style=flat-square" align="center" />
+</div>
