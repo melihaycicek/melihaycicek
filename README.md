@@ -7,6 +7,8 @@
 </div>
 
 <div id="header" align="center">
+
+<a href="https://www.java.com" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/184102434-8063f0cb-59dd-4c0b-8405-c1ea9f1e3f06.png" alt="java" width="40" height="40"/> </a> 
       <img src="https://user-images.githubusercontent.com/61455803/183992314-d1c7232c-9582-4f3c-a5ea-2a36d2cf14f5.png" width="50"/>
       <img src="https://user-images.githubusercontent.com/61455803/184102434-8063f0cb-59dd-4c0b-8405-c1ea9f1e3f06.png" width="50"/>
       <img src="https://user-images.githubusercontent.com/61455803/183992991-76fe28d3-86a0-4878-be67-4345e0c8f0fc.png" width="50"/>
@@ -27,3 +29,28 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg"/>
 </div>
+
+
+
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mehmetpekdemir&hide_border=true&hide_rank=false&show_icons=true&theme=dracula">
+
+
+### Hi there 👋
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+
+### Software Engineer at Trendyol . :man_technologist:
+
+### Connect with me 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>](https://www.linkedin.com/in/mehmet-pekdemir/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='32'>](https://www.youtube.com/channel/UC2eeWfh6G6J6xnBmM1xyPjA/playlists)
+
+<h4 align="center">Visitor count</h4>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/mehmetpekdemir/count.svg" />
+</p>
