@@ -20,7 +20,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50"/>
       <img src="https://user-images.githubusercontent.com/61455803/184004364-bc183a1e-b4ab-43f9-a289-daf0c54f3bea.png" width="50"/> 
           <a href="https://sapui5.hana.ondemand.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186202930-c1cba45d-6114-4d70-8e70-511e1f2e8839.png" alt="java" width="80" height="60"/> </a> 
-      <img src="https://user-images.githubusercontent.com/61455803/184007089-500bb220-6b43-4930-82bb-310db75b8cb6.png" width="70" height="50"/> 
+      <img src="https://user-images.githubusercontent.com/61455803/184007089-500bb220-6b43-4930-82bb-310db75b8cb6.png" width="60" height="50"/> 
       <a href="https://www.postgresql.org/download/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186199754-3d4d6860-ec29-4a21-97bc-42159c7a386a.png" alt="java" width="50" height="60"/> </a> 
 </div>
 
