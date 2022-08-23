@@ -17,7 +17,6 @@
    <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183993381-2a7389b8-37f8-4fdc-8b98-326a7ee5291d.png" alt="java" width="50" height="50"/>  <a/>
       <img src="https://user-images.githubusercontent.com/61455803/184004758-bfaf3d3c-3fae-40f1-a582-00c30f79f08c.png" width="50"/>
       <img src="https://user-images.githubusercontent.com/61455803/184004970-0a133f19-842a-4809-87a8-22cb9a6ce128.png" width="50"/>
-          <a href="https://www.postgresql.org/download/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186199754-3d4d6860-ec29-4a21-97bc-42159c7a386a.png" alt="java" width="50" height="60"/> </a> 
     </div>
     <div id="header_1" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50"/>
