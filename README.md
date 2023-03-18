@@ -1,16 +1,5 @@
 <html>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
-<!-- İlgili HTML kodu -->
-<a href="#" class="btn btn-primary">Buton</a>
-
-<!-- Stil kodları -->
-<style>
-.btn-primary {
-  background-color: #007bff;
-  border-color: #007bff;
-}
-</style>
  <body>
 <div id="header" align="center" >
  <h3 width="%50">Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
