@@ -1,10 +1,10 @@
 <html>
   <head>
-    <style>
+<style>
 a:hover img {
   opacity: 0.5;
 }
-   </style>
+</style>
   </head>
  <body>
 <div id="header" align="center" >
