@@ -2,7 +2,17 @@
   <head>
 <style>
 a:hover img {
-  opacity: 0.5;
+  filter: grayscale(100%) brightness(90%);
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  background-color: black;
+  color: white !important;
+  transition: all 0.3s ease-in-out;
+  padding: 0.5em 1em;
+  border-radius: 0.25em;
+  text-decoration: none !important;
 }
 </style>
   </head>
