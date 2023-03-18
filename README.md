@@ -1,12 +1,10 @@
 <html>
   <head>
         <style>
-      /* Buraya stil kodlarınızı ekleyin */
       a:hover img {
         filter: grayscale(100%) brightness(90%);
         transition: all 0.3s ease-in-out;
       }
-
       a:hover {
         background-color: black;
         color: white !important;
