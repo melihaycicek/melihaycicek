@@ -18,6 +18,7 @@
        <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183993381-2a7389b8-37f8-4fdc-8b98-326a7ee5291d.png" alt="java" width="50" height="50"/>  <a/>
        <a href="https://www.tensorflow.org/install/source" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186256256-187bfa59-d09c-4c08-9924-7c58ac32732a.png" alt="java" width="60"/> </a> 
         <a/>
+            <a href="https://angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/226130718-dbd3fd8f-28ba-4914-bf34-d951bdc0e883.png" alt="java" width="50" height="50"/> 
         <a href="https://pypi.org/project/python-build/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/184004758-bfaf3d3c-3fae-40f1-a582-00c30f79f08c.png" alt="java" width="50"/> </a> 
       <img src="https://user-images.githubusercontent.com/61455803/184004970-0a133f19-842a-4809-87a8-22cb9a6ce128.png" width="50"/>
       <img src="https://user-images.githubusercontent.com/61455803/186260235-8edbc478-a8c5-4192-bdfa-55bb76133304.png" width="60"/>
