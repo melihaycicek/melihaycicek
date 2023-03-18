@@ -1,5 +1,12 @@
-
-
+<html>
+  <head>
+    <style>
+a:hover img {
+  opacity: 0.5;
+}
+   </style>
+  </head>
+ <body>
 <div id="header" align="center" >
  <h3 width="%50">Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
   <h3/>
@@ -43,10 +50,5 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/melihaycicek/count.svg" />
 </p>
-  <head>
-    <style>
-a:hover img {
-  opacity: 0.5;
-}
-   </style>
-  </head>
+</body>
+ </html>
