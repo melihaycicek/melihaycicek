@@ -1,6 +1,21 @@
 <html>
   <head>
+        <style>
+      /* Buraya stil kodlarınızı ekleyin */
+      a:hover img {
+        filter: grayscale(100%) brightness(90%);
+        transition: all 0.3s ease-in-out;
+      }
 
+      a:hover {
+        background-color: black;
+        color: white !important;
+        transition: all 0.3s ease-in-out;
+        padding: 0.5em 1em;
+        border-radius: 0.25em;
+        text-decoration: none !important;
+      }
+    </style>
   </head>
  <body>
 <div id="header" align="center" >
@@ -8,11 +23,6 @@
   <h3/>
   <h3> 'Always in update. The pendulum in my brain never stops' <h3/>
 </div>
-
-
-  
-
-  
 <h2 align="center"> 🛠 Technologies & Tools </h2>
 <div id="header" align="center">
  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/226131164-b27db5d1-9971-405a-a056-997aa15ce856.png" alt="java" width="70" height="50"/> <a/>
