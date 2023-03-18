@@ -50,4 +50,8 @@
   <img src="https://profile-counter.glitch.me/melihaycicek/count.svg" />
 </p>
 
-
+<style>
+a:hover img {
+  opacity: 0.5;
+}
+</style>
