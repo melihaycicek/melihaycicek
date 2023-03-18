@@ -7,10 +7,13 @@
 </div>
 
 
+  
+
+  
 <h2 align="center"> 🛠 Technologies & Tools </h2>
 <div id="header" align="center">
-        <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="[https://user-images.githubusercontent.com/61455803/226130718-dbd3fd8f-28ba-4914-bf34-d951bdc0e883.png](https://user-images.githubusercontent.com/61455803/226131028-ae7a053c-702b-432c-a6e2-c122fc02cc45.png)" alt="java" width="50" height="50"/> 
- <a/>
+        <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/226131164-b27db5d1-9971-405a-a056-997aa15ce856.png" alt="java" width="50" height="50"/> 
+
        <a href="https://tr.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183992314-d1c7232c-9582-4f3c-a5ea-2a36d2cf14f5.png" alt="java" width="50" height="50"/>  <a/>
        <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183992991-76fe28d3-86a0-4878-be67-4345e0c8f0fc.png" alt="java" width="60" />  <a/>
        <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183993381-2a7389b8-37f8-4fdc-8b98-326a7ee5291d.png" alt="java" width="50" height="50"/>  <a/>
