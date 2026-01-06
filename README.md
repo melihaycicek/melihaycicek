@@ -46,7 +46,7 @@
 <div id="header" align="center">
 <a href="https://github.com/topics/snake-game" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" /> </a> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=melihaycicek&color=orange)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=melihaycicek.melihaycicek&right_color=orange)
 
 </body>
  </html>
