@@ -145,7 +145,7 @@ Long term: building software products that run independently — not tied to a s
 
 <div align="center">
 
-<img src="https://github.com/melihaycicek/melihaycicek/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="contribution snake" />
+<img src="https://github.com/melihaycicek/melihaycicek/blob/output/github-contribution-grid-snake.svg?raw=true" alt="contribution snake" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=melihaycicek.melihaycicek&right_color=blueviolet)
 
