@@ -1,51 +1,154 @@
-<html>
+<div align="center">
 
- <body>
-<div id="header" align="center" >
- <h3 width="%50">Hi there, I'm Melih, Aycicek Melih 👋 <h3/>
-  <h3/>
-   <h3>İmagine a plumber. He has to join the pipes in the right places for the flow. I am the plumber who creates and joins the pipes.<h3/>
-  <h3> 'Always in update. The pendulum in my brain never stops' <h3/>
-</div>
-<h2 align="center"> 🛠 Technologies & Tools </h2>
-<div id="header" align="center">
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://user-images.githubusercontent.com/61455803/226131164-b27db5d1-9971-405a-a056-997aa15ce856.png" alt="java" width="70" height="50"
-       onmouseover="this.style.transform='scale(1.1)'; this.style.transition='all 0.3s ease'; this.style.filter='brightness(90%)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.transition='all 0.3s ease'; this.style.filter='brightness(100%)';">
-</a>
-<a href="https://tr.reactjs.org/" target="_blank" style = "opacity: 0.5;"> <img src="https://user-images.githubusercontent.com/61455803/183992314-d1c7232c-9582-4f3c-a5ea-2a36d2cf14f5.png" alt="java" width="50" height="50"/>
-       <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183992991-76fe28d3-86a0-4878-be67-4345e0c8f0fc.png" alt="java" width="60" />  <a/>
-       <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183993381-2a7389b8-37f8-4fdc-8b98-326a7ee5291d.png" alt="java" width="50" height="50"/>  <a/>
-       <a href="https://www.tensorflow.org/install/source" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186256256-187bfa59-d09c-4c08-9924-7c58ac32732a.png" alt="java" width="60"/> </a> 
-               <a href="https://spark.apache.org/" target="_blank"> <img src="https://github.com/melihaycicek/melihaycicek/assets/61455803/56c2a790-94e7-4448-84ef-9ed835c72ffa" alt="java" width="60"/> </a> 
-             <a/>
-        <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/226131459-73531f66-ba35-44bc-82bf-641d8f026647.png" alt="java" width="50"/> </a> 
-        <a/>
-            <a href="https://angular.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/226130718-dbd3fd8f-28ba-4914-bf34-d951bdc0e883.png" alt="java" width="50" height="50"/> 
-        <a href="https://pypi.org/project/python-build/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/184004758-bfaf3d3c-3fae-40f1-a582-00c30f79f08c.png" alt="java" width="50"/>
-        </a> 
-      <img src="https://user-images.githubusercontent.com/61455803/184004970-0a133f19-842a-4809-87a8-22cb9a6ce128.png" width="50"/>
-      <img src="https://user-images.githubusercontent.com/61455803/186260235-8edbc478-a8c5-4192-bdfa-55bb76133304.png" width="60"/>
-    </div>
-    <div id="header_1" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width="50"/>
-      <img src="https://user-images.githubusercontent.com/61455803/184004364-bc183a1e-b4ab-43f9-a289-daf0c54f3bea.png" width="50"/> 
- <img src="https://github.com/user-attachments/assets/0bb95de0-18fa-483d-95a5-ab751fe5a219" width="100"/> 
-       <a href="https://sapui5.hana.ondemand.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186202930-c1cba45d-6114-4d70-8e70-511e1f2e8839.png" alt="java" width="80" height="60"/> </a> 
-      <img src="https://user-images.githubusercontent.com/61455803/184007089-500bb220-6b43-4930-82bb-310db75b8cb6.png" width="60" height="50"/> 
-       <a href="https://www.postgresql.org/download/" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/186257602-6f5ba097-d672-40f7-a3dc-0ce3fa439364.png" alt="java" width="50"/>
-       </a> 
-            <a href="https://www.elastic.co/elasticsearch" target="_blank"> <img src="https://github.com/melihaycicek/melihaycicek/assets/61455803/6205871c-c083-4fe0-b252-de06c2d2d593" alt="java" width="80"/>
-       </a> 
-              <img src="https://user-images.githubusercontent.com/61455803/184103039-828980cd-fb16-4a6e-b175-c664d334fabf.png" width="50"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:162447,100:1f4068&height=160&section=header&text=Melih%20Aycicek&fontSize=46&fontColor=e2e8f0&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&descColor=94a3b8)
+
+[![Portfolio](https://img.shields.io/badge/melihaycicek.com-1f4068?style=flat-square&logo=googlechrome&logoColor=white)](https://melihaycicek.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melihaycicek)
+[![Audfix](https://img.shields.io/badge/Audfix-audfix.com-e94560?style=flat-square)](https://audfix.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:melihaycicek.business@gmail.com)
+
+<br>
+
+<i>"İmagine a plumber. He has to join the pipes in the right places for the flow.<br>
+I am the plumber who creates and joins the pipes."</i>
+
+<sub><i>Always in update. The pendulum in my brain never stops.</i></sub>
 
 </div>
 
-<div id="header" align="center">
-<a href="https://github.com/topics/snake-game" target="_blank"> <img src="https://user-images.githubusercontent.com/61455803/183988963-6419249b-842a-4630-9de8-c71102a2ce67.svg" alt="java" /> </a> 
+---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=melihaycicek.melihaycicek&right_color=orange)
+Building independent products while helping systems become faster, stronger, and more scalable.
 
-</body>
- </html>
+`Backend & Performance Architecture` &nbsp;·&nbsp; `Data Pipelines` &nbsp;·&nbsp; `Distributed & Hybrid Systems` &nbsp;·&nbsp; `Cloud & On-Prem Delivery` &nbsp;·&nbsp; `AI Integration`
+
+---
+
+## What I Deliver
+
+I take full ownership of the problem — architecture, implementation, and delivery. No handoffs mid-project.
+
+- Design and build **distributed data pipelines** (Kafka, Spark, Flink, Hadoop) that process millions of events under resource constraints
+- Orchestrate **distributed system communication** — Saga patterns, event-driven choreography, reliable cross-service transaction management — not just data flow, but coordinating state across services
+- Integrate **AI capabilities** into existing systems — RAG pipelines, local LLMs, agent workflows — without overengineering
+- Model and automate **business processes** with BPMN workflow engines and n8n; manage full sprint and backlog lifecycles (Jira-style) from definition to delivery
+- Ship real products to real users: [audfix.com](https://audfix.com) is in production, [audroad](https://github.com/melihaycicek/audroad) is a working FinTech AI pipeline
+
+---
+
+## Vision
+
+Most engineering work stops at prototype. I'm interested in closing the gap between a working proof of concept and a system that handles production load, real users, and real operational pressure.
+
+Long term: building software products that run independently — not tied to a single client or company.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Backend & Frameworks**
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,nodejs,ts&perline=8)](https://skillicons.dev)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,angular,ts,html,css,redux&perline=8)](https://skillicons.dev)
+
+**Data Engineering & Streaming** 🔄
+
+[![Skills](https://skillicons.dev/icons?i=kafka,scala,elasticsearch,rabbitmq&perline=8)](https://skillicons.dev)
+&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+
+**Data Analytics & Science** 📊
+
+[![Skills](https://skillicons.dev/icons?i=pandas&perline=8)](https://skillicons.dev)
+&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Databases**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8)](https://skillicons.dev)
+
+**DevOps & Infrastructure**
+
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,nginx&perline=8)](https://skillicons.dev)
+
+**AI & Automation**
+
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi&perline=8)](https://skillicons.dev)
+&nbsp;
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.ai)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+
+**IoT & Embedded**
+
+[![Skills](https://skillicons.dev/icons?i=mqtt,arduino&perline=8)](https://skillicons.dev)
+&nbsp;
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com)
+[![MQTT](https://img.shields.io/badge/Modbus_/_OPC-555555?style=flat-square)](https://www.st.com)
+[![SAP MES](https://img.shields.io/badge/SAP_MES%2FMII-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://www.sap.com)
+
+**Process & API Tooling** 🗂️
+
+[![Skills](https://skillicons.dev/icons?i=postman&perline=8)](https://skillicons.dev)
+&nbsp;
+![BPMN / Camunda](https://img.shields.io/badge/BPMN_%2F_Camunda-FC5D0D?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+</div>
+
+---
+
+## Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| [**Audfix**](https://audfix.com) | Production SaaS — developer tools platform. Retrospective management, image hosting API, QR generator, real-time WebSocket collaboration, i18n (EN/DE/TR), admin panel. |
+| [**Audroad**](https://github.com/melihaycicek/audroad) | FinTech AI audio pipeline — Kafka 4.2 KRaft + MinIO + faster-whisper. Batch and live transcription over WebSocket, Docker-composed microservices. |
+| [**FPGA-RL-Trading-Midas**](https://github.com/melihaycicek/FPGA-RL-Trading-Midas) | FPGA-accelerated reinforcement learning trading system |
+| [**OctoSky**](https://github.com/melihaycicek/OctoSky) | Cloud-native Spring Boot application |
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=melihaycicek&show_icons=true&theme=aura&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melihaycicek&layout=compact&theme=aura&hide_border=true&hide=jupyter+notebook,c,c%2B%2B,shell,cmake&langs_count=6" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=melihaycicek&theme=react-dark&hide_border=true&area=true&area_color=7c3aed" />
+
+</div>
+
+---
+
+## Contribution Pipeline
+
+<div align="center">
+
+<img src="https://github.com/melihaycicek/melihaycicek/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="contribution snake" />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=melihaycicek.melihaycicek&right_color=blueviolet)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:162447,100:1f4068&height=100&section=footer)
